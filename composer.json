@@ -1,0 +1,19 @@
+{
+    "name": "kangyasin/createdatabase",
+    "description": "This package for create command make:database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kangyasin",
+            "email": "tutorialblogmarine@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kangyasin\\CreateDatabase\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
