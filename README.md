@@ -37,7 +37,7 @@ For make sure config database in your .env and run command
 php artisan make:database examplekangyasin
 ```
 
-change examplekangyasin with your db name
+change **examplekangyasin** with your db name and see in your server db.
 
 update soon !!
 
