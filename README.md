@@ -13,7 +13,7 @@ Kangyasin\CreateDatabase\DatabaseServiceProvider::class,
 ## install package
 
 ```markdown
-composer require kangyasin/creatdatabase
+composer require kangyasin/createdatabase
 ```
 
 ## publish vendor
