@@ -2,7 +2,7 @@
 
 1. create new database with command php artisan make:database db_name
 2. migration folder for core and client [SOON].
-3. controler for create db and client. [SOON]
+3. controller for create db and client with /Artisan:: command. [SOON]
 
 ## use config/app.php
 
