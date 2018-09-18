@@ -31,6 +31,14 @@ php artisan
 
 
 
+For make sure config database in your .env and run command
+
+```markdown
+php artisan make:database examplekangyasin
+```
+
+change examplekangyasin with your db name
+
 update soon !!
 
 please star 
