@@ -20,3 +20,17 @@ composer require kangyasin/createdatabase
 
 1. php artisan vendor:publish
 2. choose config-kangyasin for publish vendor files.
+
+## Test run command
+
+```markdown
+php artisan
+```
+
+![](https://github.com/kangyasin/createdatabase-laravel/blob/master/img/img-1-laravel-create-database-by-kangyasin.jpg?raw=true)
+
+
+
+update soon !!
+
+please star 
